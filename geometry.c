@@ -2,6 +2,7 @@
 
 int main()
 {
+    printf("\n Enter a choice");
 	// stub for intro message and switch case statements
 	return 0;
 }
@@ -12,7 +13,7 @@ int calAreaOfSquare()
 }
 int calAreaOfTriangle()
 {
-    // stub for calculating Area of Triangle 
+    // stub for calculating Area of Triangle
 }
 int calAreaOfRectangle()
 {
